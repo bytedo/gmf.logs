@@ -1,0 +1,14 @@
+{
+  "name": "@gm5/logs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "日志存储拓展",
+  "main": "index.js",
+  "author": "yutent",
+  "keywords": [
+    "fivejs",
+    "logs"
+  ],
+  "repository": "https://github.com/bytedo/gmf.logs.git",
+  "license": "MIT"
+}
